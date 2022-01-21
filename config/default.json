@@ -1,6 +1,6 @@
 {
   "port": 5000,
   "jwtSecret": "Grob_1971!",
-  "mongoUri": "mongodb+srv://admin:Ambassador_13!@cluster0.fnme6.mongodb.net/auth_roles?retryWrites=true&w=majority",
+  "mongoUri": "mongodb+srv:/",
   "baseUrl": "http://localhost:5000"
 }
